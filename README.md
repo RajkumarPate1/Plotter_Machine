@@ -19,6 +19,7 @@ At first, the user has to set up the microcontroller with the required instructi
 The machine consists of 3 axis i.e. X, Y, Z. X and Y axis moves with the help of stepper motor from the DVD writer and these movements are controlled by the L293D IC & Motor driver. The movement of the Z axis is controlled with the help of servo motor. We have designed a PCB for the connections of the equipment’s. After debugging and multiple testing, the machine was operating as planned. The main motive of this research was to design a CNC machine with less complexity and cost efficient which we have achieved. In order to make it cost efficient we have used spare parts to construct it.
 
 The following image is the required output that we have achieved through our machine:
+
 ![Untitled](https://user-images.githubusercontent.com/94376039/149964607-593276b7-ac13-43e3-b436-106ca17a4afe.jpg)
 
 Input image:
