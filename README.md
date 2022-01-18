@@ -32,12 +32,12 @@ Initial phase of the plotting machine in action:
 
 Intermediate phase:
 
-![image](https://user-images.githubusercontent.com/94376039/149878780-f2b794d8-3d7d-45eb-9284-bd16162a86a9.png)
+![149878780-f2b794d8-3d7d-45eb-9284-bd16162a86a9](https://user-images.githubusercontent.com/94376039/149965285-4fdc78b0-86e6-4fbd-a169-0db21c33c517.png)
 
 Final phase of the plotting machine:
 
-![image](https://user-images.githubusercontent.com/94376039/149878824-2e742ed9-5cc6-4611-8e81-65eea06aa934.png)
+![149878824-2e742ed9-5cc6-4611-8e81-65eea06aa934](https://user-images.githubusercontent.com/94376039/149965330-8bfdd203-0266-4f5d-9592-26b764a0480e.png)
 
 Final output on paper:
 
-![image](https://user-images.githubusercontent.com/94376039/149879288-9949ba66-c05e-43c0-a5b8-b744a94b249d.png)
+![149879288-9949ba66-c05e-43c0-a5b8-b744a94b249d](https://user-images.githubusercontent.com/94376039/149965361-694decc0-39fa-4cd0-a19f-8b2ee9efa684.png)
