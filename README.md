@@ -28,7 +28,7 @@ Input image:
 
 Initial phase of the plotting machine in action:
 
-![image](https://user-images.githubusercontent.com/94376039/149878723-5e394e70-d2d4-4002-b9cf-9943aa58a8bf.png)
+![149878723-5e394e70-d2d4-4002-b9cf-9943aa58a8bf](https://user-images.githubusercontent.com/94376039/149964903-74553d86-9213-416d-bdf0-2f578e9ad9ab.png)
 
 Intermediate phase:
 
