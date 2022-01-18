@@ -23,7 +23,7 @@ The following image is the required output that we have achieved through our mac
 
 Input image:
 
-![WhatsApp Image 2022-01-18 at 1 01 00 AM](https://user-images.githubusercontent.com/94376039/149879867-2e55148b-9fc3-4f4d-8114-b2bbebb67b8e.jpeg)
+![JerryMouse](https://user-images.githubusercontent.com/94376039/149964499-85957e7d-0c16-4d56-a872-528076d9256d.jpg)
 
 Initial phase of the plotting machine in action:
 
