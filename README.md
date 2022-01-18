@@ -3,13 +3,11 @@
 A working protoype for this project is demonstrated in the following YouTube video:
 https://youtu.be/lp__Aw2Isxo
 
+## Summary
+
 An Arduino-based Computerized Numerical Control (CNC) plotter machine to print any image or text onto paper with the help of a pen or pencil.
 
 Tools used: Arduino Nano, PCB, Arduino IDE, and Processing IDE
-
-Input image:
-
-![WhatsApp Image 2022-01-18 at 1 01 00 AM](https://user-images.githubusercontent.com/94376039/149879867-2e55148b-9fc3-4f4d-8114-b2bbebb67b8e.jpeg)
 
 ## Objective
 
@@ -22,6 +20,10 @@ The machine consists of 3 axis i.e. X, Y, Z. X and Y axis moves with the help of
 
 The following image is the required output that we have achieved through our machine:
 ![image](https://user-images.githubusercontent.com/94376039/149957039-fbf1ba3e-6e6e-4fdb-9f56-e2014bbbc8fa.png)
+
+Input image:
+
+![WhatsApp Image 2022-01-18 at 1 01 00 AM](https://user-images.githubusercontent.com/94376039/149879867-2e55148b-9fc3-4f4d-8114-b2bbebb67b8e.jpeg)
 
 Initial phase of the plotting machine in action:
 
