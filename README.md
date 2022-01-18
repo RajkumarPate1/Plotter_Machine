@@ -26,3 +26,7 @@ Final phase of the plotting machine:
 Final output on paper:
 
 ![image](https://user-images.githubusercontent.com/94376039/149879288-9949ba66-c05e-43c0-a5b8-b744a94b249d.png)
+
+## Objective
+
+The use of CNC machines in universities and laboratories is increasing day by day. Therefore, there is an absolute need of cheap and less complex designed CNC machines. The components used in this machine are cost effective as well as they are easily available in the markets. Also, designing of this machine is very simple.
