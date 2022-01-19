@@ -9,7 +9,7 @@ An Arduino-based Computerized Numerical Control (CNC) plotter machine to print a
 
 ## Tools used
 
-![Arduino2-IDE-LOGO](https://user-images.githubusercontent.com/94376039/150140568-49d26309-81b9-4baa-9a05-68ec506895ff.jpg)  ![8285340_orig](https://user-images.githubusercontent.com/94376039/150140903-1f3d7155-9a06-457e-a38e-26536a1ea06f.png)  ![download](https://user-images.githubusercontent.com/94376039/150140962-1d0a8d88-1d18-4a1c-9611-f53c86b3c60a.png)
+![Arduino2-IDE-LOGO](https://user-images.githubusercontent.com/94376039/150140568-49d26309-81b9-4baa-9a05-68ec506895ff.jpg)  ![8285340_orig](https://user-images.githubusercontent.com/94376039/150141098-06fa5f41-a1f2-486a-9fda-9d5a88810146.png)  ![download](https://user-images.githubusercontent.com/94376039/150140962-1d0a8d88-1d18-4a1c-9611-f53c86b3c60a.png)
 
 ## Objective
 
